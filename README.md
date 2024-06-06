@@ -1,0 +1,2 @@
+# FunctionsDemo
+azure function
